@@ -1,0 +1,1 @@
+der Pollack (die Pollacke) - минтай

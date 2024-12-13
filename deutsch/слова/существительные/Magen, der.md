@@ -1,0 +1,1 @@
+der Magen (die Mägen) - желудок

@@ -1,0 +1,1 @@
+der Krug (die Krüge) - кружка

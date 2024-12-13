@@ -1,0 +1,1 @@
+der Wasserhahn (die Wasserhähne) - водопроводный кран

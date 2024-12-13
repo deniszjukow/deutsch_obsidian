@@ -1,0 +1,1 @@
+die Wange (die Wangen) - щека

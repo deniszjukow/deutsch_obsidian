@@ -1,0 +1,1 @@
+der Nagel (die Nägel) - ноготь

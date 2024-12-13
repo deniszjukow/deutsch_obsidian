@@ -1,0 +1,1 @@
+das Korn (die Körner) - зернышко

@@ -1,0 +1,280 @@
+{
+  "main": {
+    "id": "7ec0d5e1cc9e3f61",
+    "type": "split",
+    "children": [
+      {
+        "id": "34bd4af060f6cf2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "562f61106ec5b81f",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "холст - синтаксис.canvas",
+                "viewState": {
+                  "x": 1851.0493263938374,
+                  "y": -1134.9327834950054,
+                  "zoom": -0.17786434612269023
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "холст - синтаксис"
+            }
+          },
+          {
+            "id": "56372fc5625b6e20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "списики/список 006-20241201 (de).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "список 006-20241201 (de)"
+            }
+          },
+          {
+            "id": "3959c10222881695",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "списики/список 007-20241203 (de).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "список 007-20241203 (de)"
+            }
+          },
+          {
+            "id": "93a548009f0a6eb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "списики/список 005-20241129 (ru).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "список 005-20241129 (ru)"
+            }
+          },
+          {
+            "id": "90c3265e0d61e38d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "практика предлогов.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "практика предлогов"
+            }
+          },
+          {
+            "id": "653a1fdd03a24f61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "грамматика/viel - viele.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "viel - viele"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "93fa4300bbad97f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3c7f6148d3ba374",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "abd1f71b5bc80675",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "c4e13d7f012af9eb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:root",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "84bde332dc5482c0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "efde929998b325d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "da9bd60c00569a31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96a065799e355a75",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "синтаксис/сложное предложение.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для сложное предложение"
+            }
+          },
+          {
+            "id": "2f441d441b2da40f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Обстоятельство.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Обстоятельство"
+            }
+          },
+          {
+            "id": "ae703ae9fbd0b8ba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "4a64250b689cfe84",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Обстоятельство.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура Обстоятельство"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "3959c10222881695",
+  "lastOpenFiles": [
+    "списики/список 001-20241122 (de).md",
+    "списики/список 002-20241123 (de).md",
+    "списики/список 003-20241125 (de).md",
+    "списики/список 004-20241126 (de).md",
+    "списики/список 005-20241127 (de).md",
+    "списики/список 005-20241129 (de).md",
+    "списики/список 006-20241201 (de).md",
+    "списики/список 007-20241203 (de).md",
+    "слова/прилагательные/fürsorglich.md",
+    "слова/прилагательные/gebrochen.md",
+    "слова/прилагательные/bewundern.md",
+    "слова/прилагательные/stolz.md",
+    "слова/прилагательные/zufrieden.md",
+    "слова/прилагательные/klug.md",
+    "слова/прилагательные/lärmend.md",
+    "слова/существительные/das Spielzeug.md",
+    "промпты.md",
+    "практика предлогов.md",
+    "списики/список 006-20241201 (ru).md",
+    "списики/список 005-20241129 (ru).md",
+    "слова/существительные/Regal, das.md",
+    "грамматика",
+    "слова/существительные/Wal, der.md",
+    "слова/существительные/Trost, der.md",
+    "слова/существительные/Kot, der.md",
+    "слова/существительные/Korn, das.md",
+    "слова/существительные/Latte, die.md",
+    "холст - синтаксис.canvas",
+    "слова/наречия",
+    "списики",
+    "слова/прилагательные",
+    "слова/глаголы",
+    "слова/существительные",
+    "слова/список 006",
+    "слова/список 005",
+    "слова/список 004",
+    "слова/список 003",
+    "wave.svg"
+  ]
+}

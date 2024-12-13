@@ -1,0 +1,1 @@
+das Brett (die Bretter) - доска
