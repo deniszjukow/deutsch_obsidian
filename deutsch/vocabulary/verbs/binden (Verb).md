@@ -2,4 +2,4 @@
 tags:
   - сильный_глагол
 ---
-binder (bаnd, gebunden) - связывать
+binden (bаnd, gebunden) - связывать
