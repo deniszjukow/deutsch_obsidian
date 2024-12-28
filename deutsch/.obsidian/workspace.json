@@ -25,10 +25,14 @@
             "id": "56372fc5625b6e20",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "lists/2-20241123.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "2-20241123"
             }
           },
           {
@@ -79,17 +83,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vocabulary/verbs/pucken (Verb).md",
+                "file": "vocabulary/nouns/Weg, der (Substantiv).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pucken (Verb)"
+              "title": "Weg, der (Substantiv)"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +115,7 @@
                 "sortOrder": "byCreatedTimeReverse"
               },
               "icon": "lucide-folder-closed",
-              "title": "Файловый менеджер"
+              "title": "Files"
             }
           },
           {
@@ -222,16 +226,32 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "653a1fdd03a24f61",
+  "active": "56372fc5625b6e20",
   "lastOpenFiles": [
+    "vocabulary/nouns/Bär, der (Substantiv).md",
+    "vocabulary/nouns/Weg, der (Substantiv).md",
+    "lists/2-20241123.md",
+    "lists/3-20241125.md",
+    "lists/8-20241203.md",
+    "lists/7-20241201.md",
+    "lists/6-20241129.md",
+    "lists/4-20241126.md",
+    "lists/5-20241127.md",
+    "lists/1-20241122.md",
+    "lists/001-20241122 (ru).md",
+    "lists/002-20241123 (ru).md",
+    "vocabulary/nouns/Pollack, der (Substantiv).md",
+    "lists/006-20241201 (ru).md",
+    "lists/005-20241129 (ru).md",
+    "vocabulary/verbs/pucken (Verb).md",
     "vocabulary/verbs/koten (Verb).md",
     "vocabulary/verbs/scheitern (Verb).md",
     "vocabulary/verbs/stören (Verb).md",
@@ -242,22 +262,6 @@
     "vocabulary/verbs/patzen (Verb).md",
     "vocabulary/verbs/mischen (Verb).md",
     "vocabulary/verbs/raspeln (Verb).md",
-    "vocabulary/verbs/frittieren (Verb).md",
-    "vocabulary/verbs/backen (Verb).md",
-    "vocabulary/nouns/das Spielzeug (Substantiv).md",
-    "vocabulary/nouns/Wal, der (Substantiv).md",
-    "vocabulary/nouns/Trost, der (Substantiv).md",
-    "vocabulary/nouns/Kot, der (Substantiv).md",
-    "vocabulary/nouns/Korn, das (Substantiv).md",
-    "vocabulary/nouns/Latte, die (Substantiv).md",
-    "vocabulary/nouns/Pollack, der (Substantiv).md",
-    "vocabulary/nouns/Fluss, der (Substantiv).md",
-    "vocabulary/nouns/Kakerlak, der (Substantiv).md",
-    "vocabulary/nouns/Brei, der (Substantiv).md",
-    "vocabulary/nouns/Nagel, der (Substantiv).md",
-    "vocabulary/nouns/Hals, der (Substantiv).md",
-    "vocabulary/nouns/Magen, der (Substantiv).md",
-    "vocabulary/nouns/Kinn, das (Substantiv).md",
     "холст - синтаксис.canvas",
     "grammar",
     "vocabulary/adverbs",
