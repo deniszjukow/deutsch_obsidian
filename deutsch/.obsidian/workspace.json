@@ -93,7 +93,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "lists/9-20241229.md",
+=======
+                "file": "vocabulary/verbs/pucken (Verb).md",
+>>>>>>> f8f5ab77ce08862e170597f232db2fa577a699b0
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +107,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
+<<<<<<< HEAD
               "title": "Backlinks for 9-20241229"
+=======
+              "title": "Обратные ссылки для pucken (Verb)"
+>>>>>>> f8f5ab77ce08862e170597f232db2fa577a699b0
             }
           },
           {
