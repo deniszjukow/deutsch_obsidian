@@ -1,1 +1,1 @@
-die Mache - петля
+die Masche - петля

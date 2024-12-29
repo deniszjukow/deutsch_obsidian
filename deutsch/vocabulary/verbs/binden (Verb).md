@@ -1,5 +1,1 @@
----
-tags:
-  - сильный_глагол
----
-binden (bаnd, gebunden) - связывать
+binden (bindet)(band,hat gebunden) - завязывать, связывать

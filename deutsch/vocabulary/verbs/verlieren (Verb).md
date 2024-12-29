@@ -1,5 +1,1 @@
----
-tags:
-  - сильный_глагол
----
-verlieren (verlor, verloren) - терять
+verlieren (verliert)(verlor,hat verloren) - терять, проигрывать

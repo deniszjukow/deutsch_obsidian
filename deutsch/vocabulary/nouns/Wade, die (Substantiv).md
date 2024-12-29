@@ -1,1 +1,1 @@
-die Wade (die Waden) - икра
+die Wade (die Waden) - икра (часть тела)

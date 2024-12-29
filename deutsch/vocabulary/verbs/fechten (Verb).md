@@ -1,5 +1,1 @@
----
-tags:
-  - сильный_глагол
----
-fechten (focht, gefochten) - фехтовать
+fechten (ficht)(focht,hat gefochten) - фехтовать

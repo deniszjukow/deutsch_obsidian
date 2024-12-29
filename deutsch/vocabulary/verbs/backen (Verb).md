@@ -1,5 +1,1 @@
----
-tags:
-  - сильный_глагол
----
-backen (buk, gebacken) - печь
+backen (bäckt)(buk,hat gebacken) - печь, выпекать, запекать

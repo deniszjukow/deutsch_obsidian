@@ -1,5 +1,1 @@
----
-tags:
-  - сильный_глагол
----
-braten (brit, gebraten) - жарить
+braten (brät)(briet,hat gebraten) - жарить, жариться

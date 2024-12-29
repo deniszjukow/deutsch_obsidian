@@ -1,6 +1,1 @@
----
-tags:
-  - сильный_глагол
-  - неправильный_глагол
----
-lesen (las, gelesen) - читать
+lesen (liest)(las,hat gelesen) - читать
